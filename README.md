@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there i am Swaraj, an aspiring Full Stack Dev with a tint of AIML in Fintech
+Hey there i am Swaraj, an aspiring Backend Dev with a tint of AIML in Fintech
 
 
 # 💻 Tech Stack:
