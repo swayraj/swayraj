@@ -1,10 +1,9 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6F4E37&center=true&vCenter=true&width=600&lines=Backend+Engineer;Java+%26+Spring+Boot+Specialist;Building+Scalable+Web+Apps;Open+to+SDE+Roles" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=constellation&color=000000&height=180&section=header&text=Swayraj%20|%20Backend%20Engineer&fontSize=30&fontAlignY=45&desc=Building%20Scalable%20Distributed%20Systems&descAlignY=65" width="100%" alt="Constellation Header"/>
 
   <p align="center">
+     <br/>
      Fresh graduate engineering robust <b>backend systems</b> and <b>microservices</b>.<br>
      <i>"Building distributed systems and financial engines."</i>
   </p>
