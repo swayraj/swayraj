@@ -1,52 +1,76 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=constellation&color=000000&height=180&section=header&text=Swayraj%20|%20Backend%20Engineer&fontSize=30&fontAlignY=45&desc=Building%20Scalable%20Distributed%20Systems&descAlignY=65" width="100%" alt="Constellation Header"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=6F4E37&center=true&vCenter=true&width=600&lines=Hello,+I'm+Swaraj!;Backend+Engineer" alt="Typing SVG" />
+  </a>
 
   <p align="center">
-     <br/>
-     Fresh graduate engineering robust <b>backend systems</b> and <b>microservices</b>.<br>
-     <i>"Building distributed systems and financial engines."</i>
+      <br/>
+      I am a software engineer focused on building <b>scalable distributed systems</b>.<br>
+      My passion lies in backend architecture, web-apps and cloud-native solutions.<br>
+      <br/>
+      <i>"Simplicity is the soul of efficiency."</i>
+      <br/>
+      <br/>
   </p>
 
-</div>
+  <h3>🛠 Tech & Tools</h3>
+  <div align="center">
+    <a href="https://www.java.com" target="_blank"><img alt="Java" height="55px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>&nbsp;
+    <a href="https://spring.io/projects/spring-boot" target="_blank"><img alt="Spring Boot" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></a>&nbsp;
+    <a href="https://www.python.org" target="_blank"><img alt="Python" height="55px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>&nbsp;
+    <a href="https://www.docker.com/" target="_blank"><img alt="Docker" height="55px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg"></a>&nbsp;
+    <a href="https://kubernetes.io/" target="_blank"><img alt="Kubernetes" height="55px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kubernetes/kubernetes.svg"></a>&nbsp;
+    <a href="https://aws.amazon.com/" target="_blank"><img alt="AWS" height="55px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/aws/aws.svg"></a>&nbsp;
+    <a href="https://www.jetbrains.com/idea/" target="_blank"><img alt="IntelliJ" height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"></a>
+  </div>
 
-<br/>
+  <br/>
+  <br/>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🚀 Current Status</h3>
-      <ul>
-        <li><b>🔭 Working on:</b> <a href="https://github.com/swayraj/derivatives-pricer">derivatives-pricer</a><br/>(Spring Boot + Python Option Pricing Engine)</li>
-        <li><b>🌱 Learning:</b> System Design & DSA</li>
-        <li><b>🥅 Goals:</b> Building highly scalable web apps</li>
-        <li><b>⚽ Fun Fact:</b> Avid soccer player</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛠 Tech Stack</h3>
-      <div align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=light" />
-        </a>
-        <br/>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,python&theme=light" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swayraj&show_icons=true&hide_border=true&title_color=6F4E37&icon_color=d4a373&text_color=5c4033&bg_color=fdfbf7" height="150" alt="stats graph" />
+  <h3>🚀 What I'm Up To</h3>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayraj&layout=compact&hide_border=true&title_color=6F4E37&text_color=5c4033&bg_color=fdfbf7" height="150" alt="languages graph" />
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/b6cef91c-ed6f-4578-b697-5b60d7ce5825" width="400px" alt="My Animation" />
+  </p>
+  
+  <p align="center">
+    🔭 <b>Working on:</b> <a href="https://github.com/swayraj/feature-flag-service">Feature Flag Service</a><br/>
+    <i>A distributed system for managing gradual feature rollouts.</i><br/><br/>
+    🌱 <b>Learning:</b> Microservices Design & DSA<br/>
+    ⚽ <b>Hobby:</b> Avid Soccer Player (Visca Barca!)
+  </p>
+
+  <br/>
+  <br/>
+
+  <h3>📎Featured</h3>
+
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/c363308a-7a93-4c20-bf88-b23b8d27eab9" width="400px" alt="Project Header" />
+  </p>
+   
+  <p align="center">
+    <a href="https://github.com/swayraj"><b>Derivatives Pricer</b></a><br>
+    A calculator for pricing financial options.<br>
+    <img src="https://img.shields.io/badge/Java-Python-6F4E37?style=flat-square" />
+  </p>
+
+  <br/>
+  <br/>
+
+  <p align="center">
+    <img src="https://i.imgur.com/YCw47Dm.gif">
+  </p>
+
+   
+  <img src="https://nirzak-streak-stats.vercel.app/?user=swayraj&theme=bear&hide_border=true" />
+  <br/>
+
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=60&section=footer" width="100%"/>
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=120&section=footer&text=&fontSize=0" width="100%"/>
 </div>
