@@ -6,7 +6,7 @@
 
   <p align="center">
       <br/>
-      I am a software engineer focused on building <b>scalable distributed systems</b>.<br>
+      A software engineer focused on building <b>scalable distributed systems</b>.<br>
       My passion lies in backend architecture, web-apps and cloud-native solutions.<br>
       <br/>
       <i>"Simplicity is the soul of efficiency."</i>
