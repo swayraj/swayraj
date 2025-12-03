@@ -36,7 +36,7 @@
   
   <p align="center">
     🔭 <b>Working on:</b> <a href="https://github.com/swayraj/feature-flag-service">Feature Flag Service</a><br/>
-    <i>A distributed system for managing gradual feature rollouts.</i><br/><br/>
+    <i>A distributed system for managing gradual feature rollouts gracefully.</i><br/><br/>
     🌱 <b>Learning:</b> Microservices Design & DSA<br/>
     ⚽ <b>Hobby:</b> Avid Soccer Player (Visca Barca!)
   </p>
